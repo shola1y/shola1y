@@ -12,7 +12,7 @@
   <a href="mailto:omotoshoshaun@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
-  <a href="https://sarahvo.net?utm_source=github" target="_blank">
+  <a href="https://github.com/shola1y/shola1y/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=gitea&label=&color=white&logoColor=022428&labelColor=&style=for-the-badge" height="20" alt="portfolio logo"  />
   </a>
 
@@ -78,10 +78,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarv19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarv19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
