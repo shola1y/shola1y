@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sarahvo98/" target="_blank">
+  <a href="https://www.linkedin.com/in/shola-o-9a627312a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
   <a href="mailto:omotoshoshaun@gmail.com" target="_blank">
